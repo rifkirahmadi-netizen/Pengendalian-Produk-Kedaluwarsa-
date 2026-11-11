@@ -1,0 +1,6 @@
+{
+  "name": "FEFO StockGuard UMKM",
+  "description": "Sistem Informasi Pengendalian Produk Kedaluwarsa pada UMKM Berbasis FEFO (First Expired, First Out) dengan Notifikasi Otomatis WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
